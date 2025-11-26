@@ -5,4 +5,8 @@ Core Concepts:
 - High Magic the world is at war
 - Grimdark
 
-Univers
+Universe Plan:
+- Three dimensions surrounded by the edge
+	- Heaven
+	- Hell
+	- Mortal Plane
