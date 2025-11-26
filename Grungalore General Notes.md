@@ -1,8 +1,8 @@
 Core Concepts:
 - Earth Adjacent
 - Bloodpunk (Blood is highly magical)
-- Apocalyptic
-- High Magic the world is at war
+- Apocalyptic - Constant War
+- High Magic 
 - Grimdark
 
 Universe Plan:
