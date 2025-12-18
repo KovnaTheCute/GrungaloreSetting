@@ -10,3 +10,4 @@
 	- [[Pilasuseum (Pillared Colosseum Trees)]]
 	- [[Funalefructus (Chandelier Fruit Trees)]]
 	- [[Ruptisstaticus (Burst Static Moss)]]
+	- [[Claustrumforare (Shut-In Bore Fungus)]]
