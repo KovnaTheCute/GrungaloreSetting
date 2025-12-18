@@ -15,3 +15,4 @@ Universe Plan:
 	- Demons are divided into groups, the most prominent ones being the 7 sins (potentially)
 
 [[Creatures, Critters, and all in between.]]
+[[Biome Notes]]
