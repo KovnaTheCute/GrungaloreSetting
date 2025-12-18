@@ -1,0 +1,11 @@
+##Tropical Rainforests
+- Always extremely wet (Normally too wet for wildfires)
+- Closed Canopy with dense vegetation (Vegetation is often moisture dependent)
+- Broken up into four vertical zones
+	- Forest Floor
+	- Understory
+	- Canopy
+	- Emergent
+- Interesting Species:
+	- [[Pilasuseum (Pillared Colosseum Trees)]]
+	- [[Funalefructus (Chandelier Fruit Trees)]]
