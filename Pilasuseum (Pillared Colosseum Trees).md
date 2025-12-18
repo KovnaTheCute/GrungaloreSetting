@@ -1,5 +1,11 @@
 Climate: Rain Forest
 
+Domain: Multicellula
+Kingdom: Noncongitandi
+Phylum: Arbor
+Class: Conjuctusramus
+Order: Pilasuseum
+
 Description: Tall Trees that make up large portions of the rainforests canopy. The trees grow long barren trunks thats burst into expansive canopies. Pilasuseum trees that grow near one another secrete a thick sap with strong adhesive properties to twine their branches together in a braided pattern, growing into one another to become one larger organism. This allows Pilasuseum to spread nutrients troughout the forest, sharing abundance with areas struck by drought or disease.
 
 Reproductive Process: Pilasuseum produces tough nuts (Known as Lentum nuts) near the base of the tree that are covered in its strong adhesive sap. When the nuts are removed from the base of the tree any sap still attached to the nut crystalizes over a 24 hour period to protect it as it gestates. The seed is nutritionally dense and sprouts a sharp hardened trunk that grows from the base, pushing its leaves higher towards the canopy before branching out harshly to try and find another Pilasuseum to connect to.
