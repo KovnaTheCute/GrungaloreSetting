@@ -13,3 +13,4 @@
 	- [[Claustrumforare (Shut-In Bore Fungus)]]
 	- [[Volanserpens (Flying Snake)]]
 	- [[Baculumluminis (Glow Stick Frogs)]]
+	- [[Cortextesta (Bark Shell Beetle)]]
