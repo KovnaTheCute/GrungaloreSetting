@@ -19,4 +19,4 @@
 - Most rainfall during the summer (Lengthy Droughts)
 - Significant Wildfire risk due to dryness
 - Interesting Species
-	- 
+	- [[Solumsitula (Lonely Water Jar Tree)]]
