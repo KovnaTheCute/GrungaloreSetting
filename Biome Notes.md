@@ -20,4 +20,4 @@
 - Significant Wildfire risk due to dryness
 - Interesting Species
 	- [[Solumsitula (Lonely Water Jar Tree)]]
-	- [[Sanguisugaculmus (Bloodsucking Stalk Grass)]]
+	- [[Sanguisugaculmus (Bloodsucking Stalk Shrub)]]
