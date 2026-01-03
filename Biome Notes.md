@@ -26,3 +26,8 @@
 	- [[Cuniculisrattus (Tunnel Rat)]]
 	- [[Longuscrus (Long Legs)]]
 	- [[Magiadurabilis (Magic Durability)]]
+
+## Deserts
+- Steppes form between deserts and surrounding climates
+- Very little rain
+- Separated into hot, foggy, and cold deserts
