@@ -31,3 +31,5 @@
 - Steppes form between deserts and surrounding climates
 - Very little rain
 - Separated into hot, foggy, and cold deserts
+- Interesting Species
+	- 
