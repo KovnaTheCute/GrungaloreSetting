@@ -35,3 +35,4 @@
 	- [[Milleparvaespinae (Thousand tiny thorns)]]
 	- [[Follisfluctuans (Drifting Balloon)]]
 	- [[Aquavenenata (Poison Water)]]
+	- [[Caelumparalysis (Sky Paralysis)]]
