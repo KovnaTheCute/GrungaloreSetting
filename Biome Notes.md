@@ -18,7 +18,7 @@
 ## Savannas
 - Most rainfall during the summer (Lengthy Droughts)
 - Significant Wildfire risk due to dryness
-- Interesting Species
+- Interesting Species:
 	- [[Solumsitula (Lonely Water Jar Tree)]]
 	- [[Sanguisugaculmus (Bloodsucking Stalk Shrub)]]
 	- [[Stagnumconopeum (Pond Canopy Grass)]]
@@ -31,8 +31,14 @@
 - Steppes form between deserts and surrounding climates
 - Very little rain
 - Separated into hot, foggy, and cold deserts
-- Interesting Species
+- Interesting Species:
 	- [[Milleparvaespinae (Thousand tiny thorns)]]
 	- [[Follisfluctuans (Drifting Balloon)]]
 	- [[Aquavenenata (Poison Water)]]
 	- [[Caelumparalysis (Sky Paralysis)]]
+
+## Subtropics and Wetlands
+- Fairly warm however temperatures are more varied and cooler
+- Very similar to tropics in fauna and flora though greater space for aquatic adaptation
+- Interesting Species:
+	- [[Erumpoflos (Pop Flower)]]
