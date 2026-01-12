@@ -41,4 +41,4 @@
 - Fairly warm however temperatures are more varied and cooler
 - Very similar to tropics in fauna and flora though greater space for aquatic adaptation
 - Interesting Species:
-	- [[Erumpoflos (Pop Flower)]]
+	- [[Erumpoflos (Pop )]]
