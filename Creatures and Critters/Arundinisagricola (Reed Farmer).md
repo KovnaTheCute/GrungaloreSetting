@@ -5,7 +5,8 @@ Kingdom: Spiriare
 Phylum: Terraspiriare
 Class: Capillus
 Order: Capillussexipes
-Family: Arundinisagricola
+Family: Centrumbracchia
+Genus: Arundinisagricola
 
 Diet: Primarily Erumpoflos however they also feed on a variety of other reeds and shrubs that grow in waterlogged conditions.
 
