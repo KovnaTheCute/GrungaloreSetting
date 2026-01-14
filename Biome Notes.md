@@ -49,3 +49,6 @@
 ## Mediterranean
 - Ideal zones for agriculture and crops
 - Favors annual adaptations
+- Climates that are flanked by rivers and bays or mountain run off are super fertile and very suitable for agriculture
+- Interesting Species:
+	- 
