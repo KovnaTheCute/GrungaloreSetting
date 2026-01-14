@@ -1,4 +1,4 @@
-## Tropical Rainforests
+ ## Tropical Rainforests
 - Always extremely wet (Normally too wet for wildfires)
 - Closed Canopy with dense vegetation (Vegetation is often moisture dependent)
 - Broken up into four vertical zones
@@ -45,3 +45,7 @@
 	- [[Minispherula (Tiny Sphere)]]
 	- [[Palustriscanis (Swamp Dog)]]
 	- [[Arundinisagricola (Reed Farmer)]]
+
+## Mediterranean
+- Ideal zones for agriculture and crops
+- Favors annual adaptations
