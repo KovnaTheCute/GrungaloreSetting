@@ -15,7 +15,7 @@ Universe Plan:
 
 What does blood require to be magical?
 - Intelligence does not determine magical power, only what can be done with the magic itself.
-- In order for blood to be inherently magical two conditions must be met. The vessel containing the blood must be alive, and the vessel containing the blood must be able to feel fear or pleasure. Dopamine and Adrenaline both increase the magical concentration found in a creatures blood.
+- In order for blood to be inherently magical two conditions must be met. The vessel containing the blood must be alive, and the vessel containing the blood must be able to feel fear or pleasure. Dopamine and Adrenaline both increase the magical concentration found in a creatures blood. A creature that meets both conditions is inherently magical, and may channel its magic given it has a method of doing so (channeling is not inherent without the correct biological or mechanical structures). During experiences of high adrenaline or dopamine the magic may take effect on its own (with adrenaline being far more potent and unpredictable).
 
 [[Creatures, Critters, and all in between.]]
 [[Biome Notes]]
