@@ -17,5 +17,13 @@ What does blood require to be magical?
 - Intelligence does not determine magical power, only what can be done with the magic itself.
 - In order for blood to be inherently magical two conditions must be met. The vessel containing the blood must be alive, and the vessel containing the blood must be able to feel fear or pleasure. Dopamine and Adrenaline both increase the magical concentration found in a creatures blood. A creature that meets both conditions is inherently magical, and may channel its magic given it has a method of doing so (channeling is not inherent without the correct biological or mechanical structures). During experiences of high adrenaline or dopamine the magic may take effect on its own (with adrenaline being far more potent and unpredictable).
 
+What kinds of Sentient races am I interested in?
+- Humans are a strong contender for a relatable species that can take up the largest of the population. However although they may be the most prevalent "Human" will likely cover a range of human hybrids as well (Elves, Dwarves, etc)
+- I'd like to see some exotic and Highly magical species as I imagine generic humans will be fairly low magic individually
+
+What kinds of factions would be really cool?
+- A faction where the majority of the population is blinded at birth and is lead by "Seers", a highly psychic group that manipulate and train the populace to follow their every order with fanatical devotion. Highly religious and zealous in nature, this group is incredibly xenophobic and against blood magic (as that is not a power bestowed upon them by their all knowing guides). It's very possible this entire faction is lead by a very very powerful angel (or a council of them).
+- A faction of modifications who are heavily capitalistic and base their entire society around bloodtech enhancements and prosthetics. Like AdMech from 40k but far far more violent. Ethically sourced blood is expensive, especially so if it's from a magically rich source, but if enough trauma is inflicted human blood can suffice...
+
 [[Creatures, Critters, and all in between.]]
 [[Biome Notes]]
