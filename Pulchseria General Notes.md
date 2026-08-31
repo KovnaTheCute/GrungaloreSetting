@@ -23,7 +23,7 @@ What kinds of Sentient races am I interested in?
 
 What kinds of factions would be really cool?
 - A faction where the majority of the population is blinded at birth and is lead by "Seers", a highly psychic group that manipulate and train the populace to follow their every order with fanatical devotion. Highly religious and zealous in nature, this group is incredibly xenophobic and against blood magic (as that is not a power bestowed upon them by their all knowing guides). It's very possible this entire faction is lead by a very very powerful angel (or a council of them).
-- A faction of modifications who are heavily capitalistic and base their entire society around bloodtech enhancements and prosthetics. Like AdMech from 40k but far far more violent. Ethically sourced blood is expensive, especially so if it's from a magically rich source, but if enough trauma is inflicted human blood can suffice...
+- A faction of modifications who are heavily capitalistic and base their entire society around bloodtech enhancements and prosthetics. Like AdMech from 40k but far far more violent. Ethically sourced blood is expensive, especially so if it's from a magically rich source, but if enough trauma is inflicted human blood can suffice... 
 
 [[Creatures, Critters, and all in between.]]
 [[Biome Notes]]
