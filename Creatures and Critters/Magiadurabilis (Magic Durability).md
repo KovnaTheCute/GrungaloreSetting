@@ -14,4 +14,4 @@ Description: Magiadurabilis are powerful beasts with extremely dense muscles and
 
 Magiadurabilis will cooperate at high efficiencies to get the kill however once they do they then "joust" to see which gets a larger share. Groups of Magiadurabilis will spar in turns, with the total winner getting first pick of the carapace. Magiadurabilis uses magic to solidify its flesh in short bursts, allowing it to withstand the impact of goring prey, and prevents them from being gored by other Magiadurabilis.
 
-Magiadurabilis communicate with one another using complex calls, often forming social groups around water or shelter. They do not hunt one another however in the event that one dies during a spar the victor consumes the loser.
+Magiadurabilis communicate with one another using complex calls, often forming social groups around water or shelter. They do not hunt one another however in the event that one dies during a spar, which isn't uncommon during mating, the victor consumes the loser.
